@@ -5,10 +5,15 @@ Assorted notes on privacy pages
 
 ## GSA Privacy Sections
 
+* https://www.challenge.gov/privacy-policy/
+* https://www.data.gov/privacy-policy
+* https://www.fpc.gov/privacy/
 * https://www.gsa.gov/privacy
+* https://www.everykidinapark.gov/privacy-policy/
+* https://fardatacollection.sam.gov/privacy
 * https://www.usa.gov/privacy
 * https://www.usa.gov/policies
-* https://www.fpc.gov/privacy/
+* https://vsc.gsa.gov/privacy.cfm
 
 ## Examples of Other Government Privacy Pages
 * http://www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm
