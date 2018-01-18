@@ -3,8 +3,14 @@ Assorted notes on privacy pages
 
 
 
-## Examples of Government Privacy Pages
+## GSA Privacy Sections
+
+* https://www.gsa.gov/privacy
+* https://www.usa.gov/privacy
 * https://www.usa.gov/policies
+* https://www.fpc.gov/privacy/
+
+## Examples of Other Government Privacy Pages
 * http://www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm
 * https://www.consumerfinance.gov/privacy/website-privacy-policy/
 * https://www.dhs.gov/privacy-policy
@@ -29,11 +35,5 @@ Session or Peristent? How long are they stored for? How does the visitor delete 
 * Questions About Privacy
 * Third Party Services 
 
-
-## GSA Privacy Sections
-
-
-* https://www.gsa.gov/privacy
-* https://www.usa.gov/privacy
 
 
