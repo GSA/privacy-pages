@@ -23,3 +23,13 @@ Assorted notes on privacy pages
 * Intrusion Detection Monitoring and US-CERT EINSTEIN Program
 * Other Privacy Information: Systems of Records Notices and Privacy Impact Assessments
 * Questions About Privacy
+* Third Party Services 
+
+
+## GSA Privacy Sections
+
+
+* https://www.gsa.gov/privacy
+* https://www.usa.gov/privacy
+
+
