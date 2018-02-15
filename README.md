@@ -17,6 +17,7 @@ Assorted notes on privacy pages
 
 ## Examples of Other Government Privacy Pages
 * http://www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm
+* https://www.healthcare.gov/privacy/
 * https://www.consumerfinance.gov/privacy/website-privacy-policy/
 * https://www.dhs.gov/privacy-policy
 * https://www.ftc.gov/site-information/privacy-policy
@@ -27,11 +28,11 @@ Assorted notes on privacy pages
 
 ##### Information Collected and Stored Automatically  
 
-What information is collected by default?  Internet Protocol (IP) address, Browser type and version,  
+What information is collected by default?  Internet Protocol (IP) address, Browser type and version,  referrer address, etc.
 
-##### Cookies  
+##### Cookies and other 3rd party services 
 
-Session or Peristent? How long are they stored for? How does the visitor delete them?
+Session or Peristent? How long are they stored for? How does the visitor delete them? Any effect on visiting experience? What is their privacy policy?  
 
 ##### If You Choose to Send Us Personal Information
 
@@ -59,15 +60,14 @@ Session or Peristent? How long are they stored for? How does the visitor delete 
 
 ##### Other Privacy Information: Systems of Records Notices and Privacy Impact Assessments
 
-...
+https://www.gsa.gov/reference/gsa-privacy-program/system-of-records-notices-sorns-privacy-act
+https://www.gsa.gov/reference/gsa-privacy-program/privacy-impact-assessments-pia
 
 ##### Questions About Privacy
 
-...
-
-##### Third Party Services 
-
-...
+Visit:  https://www.gsa.gov/reference/gsa-privacy-program 
+Contact us at: gsa.privacyact@gsa.gov 
+How to make a Privacy Act Request: https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-of-1974 
 
 
 
