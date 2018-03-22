@@ -3,9 +3,9 @@ Here's a proposed outline for this project -
 
 
 Generate: 
-* list of websites 
-* list of privacy pages 
-* list of points of contact for all of these - at least at the per domain 
+* [list of websites](https://docs.google.com/spreadsheets/d/1b3MhQp_OSDZZfxCd-0iiwv6ys-vzV5xnsDMzUdvHhSQ/edit#gid=0)
+* [list of privacy pages](https://docs.google.com/spreadsheets/d/1b3MhQp_OSDZZfxCd-0iiwv6ys-vzV5xnsDMzUdvHhSQ/edit#gid=0)
+* [list of points of contact for all of these - at least at the per domain](https://docs.google.com/spreadsheets/d/1b3MhQp_OSDZZfxCd-0iiwv6ys-vzV5xnsDMzUdvHhSQ/edit#gid=0)
 
 Then: 
 * ping the websites without pages and saying - we need to do a page and/or redirect to the gsa or other page 
