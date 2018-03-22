@@ -20,7 +20,7 @@ Scan existing privacy pages and:
 
 
 * pinging these folks with an ask:  
-  *  Conduct a sel-assessment using this guide and tool....
+  *  Conduct a self-assessment using this guide and tool....
 
 Goals:
 * everything has an up-to-date privacy policy page 
