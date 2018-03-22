@@ -19,8 +19,8 @@ Scan existing privacy pages and:
 
 
 * pinging these folks with an ask:  
-  *  ...
+  *  Conduct a sel-assessment using this guide and tool....
 
 Goals:
-* everything has a privacy policy page 
-* ...
+* everything has an up-to-date privacy policy page 
+* the site owner reviews the policy annually and makes updates as needed.
