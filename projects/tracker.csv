@@ -1,0 +1,5 @@
+Website,Domain,Privacy Page URL,/privacy resolves?,To Do
+api.data.gov,data.gov,,no,create a privacy policy page
+analytics.usa.gov,usa.gov,https://analytics.usa.gov/#explanation,no,set up a redirect for analytics.usa.gov/privacy
+18f.gsa.gov,gsa.gov,,no,create a privacy policy page
+www.gsa.gov,gsa.gov,https://www.gsa.gov/privacy,yes,
