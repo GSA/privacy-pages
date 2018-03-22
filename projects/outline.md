@@ -6,6 +6,7 @@ Generate:
 * [list of websites](https://docs.google.com/spreadsheets/d/1b3MhQp_OSDZZfxCd-0iiwv6ys-vzV5xnsDMzUdvHhSQ/edit#gid=0)
 * [list of privacy pages](https://docs.google.com/spreadsheets/d/1b3MhQp_OSDZZfxCd-0iiwv6ys-vzV5xnsDMzUdvHhSQ/edit#gid=0)
 * [list of points of contact for all of these - at least at the per domain](https://docs.google.com/spreadsheets/d/1b3MhQp_OSDZZfxCd-0iiwv6ys-vzV5xnsDMzUdvHhSQ/edit#gid=0)
+* [Google Group for coordinating the privacy policy points of contact](https://groups.google.com/a/gsa.gov/forum/#!forum/privacy-policy-poc)
 
 Then: 
 * ping the websites without pages and saying - we need to do a page and/or redirect to the gsa or other page 
