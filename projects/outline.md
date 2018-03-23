@@ -9,6 +9,9 @@ Generate:
 * [Google Group for coordinating the privacy policy points of contact](https://groups.google.com/a/gsa.gov/forum/#!forum/privacy-policy-poc)
 
 Then: 
+* Review [M-17-06](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) for related deliverables.  
+
+Then: 
 * ping the websites without pages and saying - we need to do a page and/or redirect to the gsa or other page 
   * identify a model policy page to share
 
