@@ -11,16 +11,16 @@ This project is an organization of and collaboration between the privacy policie
 
 #### Identify all GSA websites
 
-...
+* The initial identification of GSA websites will be via pulse.cio.gov (https://pulse.cio.gov/).
 
 #### Locate the privacy policies for all GSA websites
 
-...
+* The Privacy Office is developing a Digital Analytics Platform search capability to identify potential privacy policy pages on GSA websites.  These site will be added to the Privacy Page list.
 
 #### Identify points of contact for the privacy policies of all GSA websites
 
-...
+* After identifying GSA websites, the Privacy Office will contact domain admins and/or site owners and offer the opportunity to enroll in a Google group.
 
 #### Engage with the points of contact and collaborate together.  
 
-...
+* Once appropriate POCs are located, we will share knowledge, best practices and update pages together.
