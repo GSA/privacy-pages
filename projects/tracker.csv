@@ -1,7 +1,13 @@
 Domain,Website,Privacy Page - URL,/privacy resolves?,To Do
-challenge.gov,www.challenge.gov,https://www.challenge.gov/privacy-policy,no,"
-change the redirect for challenge.gov/privacy to go to the privacy policy"
+challenge.gov,www.challenge.gov,https://www.challenge.gov/privacy-policy,no,change the redirect for challenge.gov/privacy to go to the privacy policy
 data.gov,api.data.gov,,no,create or redirect to a privacy policy page
-usa.gov,analytics.usa.gov,https://analytics.usa.gov/#explanation,no,set up a redirect for analytics.usa.gov/privacy
+data.gov,www.data.gov,https://www.data.gov/privacy-policy,,
+everykidinapark.gov,www.everykidinapark.gov,https://www.everykidinapark.gov/privacy-policy/,,
+fpc.gov,www.fpc.gov,https://www.fpc.gov/privacy/,,
 gsa.gov,18f.gsa.gov,,no,create or redirect to a privacy policy page
+gsa.gov,vsc.gsa.gov,https://vsc.gsa.gov/privacy.cfm,,
 gsa.gov,www.gsa.gov,gsa.gov/privacy,yes,
+login.gov,www.login.gov,https://login.gov/policy/,,
+sam.gov,fardatacollection.sam.gov,https://fardatacollection.sam.gov/privacy,,
+usa.gov,analytics.usa.gov,https://analytics.usa.gov/#explanation,no,set up a redirect for analytics.usa.gov/privacy
+usa.gov,www.usa.gov,https://www.usa.gov/privacy,,
