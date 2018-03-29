@@ -7,3 +7,20 @@ This project is an organization of and collaboration between the privacy policie
 * [Potential components of a GSA privacy policy page](https://github.com/GSA/privacy-pages/blob/master/documents/components.md)
 * [Policy Links and Breakdown](https://github.com/GSA/privacy-pages/blob/master/documents/policy-links-breakdown.md)
 
+## Major Projects
+
+#### Identify all GSA websites
+
+...
+
+#### Locate the privacy policies for all GSA websites
+
+...
+
+#### Identify points of contact for the privacy policies of all GSA websites
+
+...
+
+#### Engage with the points of contact and collaborate together.  
+
+...
