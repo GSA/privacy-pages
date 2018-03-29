@@ -1,5 +1,11 @@
-Website,Domain,Privacy Page URL,/privacy resolves?,To Do
-api.data.gov,data.gov,,no,create a privacy policy page
-analytics.usa.gov,usa.gov,https://analytics.usa.gov/#explanation,no,set up a redirect for analytics.usa.gov/privacy
-18f.gsa.gov,gsa.gov,,no,create a privacy policy page
-www.gsa.gov,gsa.gov,https://www.gsa.gov/privacy,yes,
+Domain,Website,Privacy Page URL,/privacy resolves?,To Do
+challenge.gov,www.challenge.gov,https://www.challenge.gov/privacy-policy,no,change the redirect for challenge.gov/privacy to go to the privacy policy
+data.gov,api.data.gov,,no,create a privacy policy page
+gsa.gov,18f.gsa.gov,,no,create a privacy policy page
+
+gsa.gov,www.gsa.gov,https://www.gsa.gov/privacy,yes,
+usa.gov,analytics.usa.gov,https://analytics.usa.gov/#explanation,no,set up a redirect for analytics.usa.gov/privacy
+
+
+
+
