@@ -28,7 +28,21 @@ We may share the above information with our employees or representatives with a 
 
 ##### Cookies and other 3rd party services 
 
-Session or Peristent? How long are they stored for? How does the visitor delete them? Any effect on visiting experience? What is their privacy policy?  
+Session or Peristent? How long are they stored for? How does the visitor delete them? Any effect on visiting experience? What is their privacy policy?  If you use any web measurement/customization technology, you must include:
+
+i. the purpose of the web measurement and/or customization technology;
+ii. the usage Tier, session type, and technology used;
+iii. the nature of the information collected;
+iv. the purpose and use of the information;
+v. whether and to whom the information will be disclosed;
+vi. the privacy safeguards applied to the information;
+vii. the data retention policy for the information;
+viii. whether the technology is enabled by default or not and why;
+ix. how to opt-out of the web measurement and/or customization technology;
+x. statement that opting-out still permits users to access comparable information or services;
+and
+xi. the identities of all third-party vendors involved in the measurement and customization
+process. 
 
 <i>Example:</i> Website Analytics Tools:
 These tools collect basic site usage information such as: how many visits HealthCare.gov receives, the pages visited by consumers, time spent on the site, the number of return visits to the site, the approximate location of the device used to access the site, types of devices used, etc. This information is then used to maintain the website including: monitoring site stability, measuring site traffic, optimizing site content, and improving the consumer experience. Use the HealthCare.gov privacy manager to opt-out of website analytics tools.
