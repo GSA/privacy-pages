@@ -12,7 +12,7 @@
 maintenance, dissemination, disclosure, and disposal of PII
 * maintain an up-to-date Privacy Program Page on an agency’s principal website; 
 * post plain language privacy policies on agency websites, mobile applications, and other digital services; 
-* provide [Privacy Act Notices where required by the Privacy Act of 1974] (https://docs.google.com/a/gsa.gov/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit?usp=drive_web).
+* provide [Privacy Act Notices where required by the Privacy Act of 1974](https://docs.google.com/a/gsa.gov/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit?usp=drive_web).
 
 #### [OMB M-10-22 Section 3](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf)
 
