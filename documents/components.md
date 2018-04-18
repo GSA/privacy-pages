@@ -62,6 +62,8 @@ Third-party vendors engaged by CMS may also target advertising based on informat
 
 CMS may consider new third-party tools or the use of new third-party websites, but CMS will first assess the tools or websites before it is used in connection with HealthCare.gov. CMS will provide notice to the public before adding any new tool to HealthCare.gov. These assessments include a description about how information will be collected, accessed, secured, and stored. See a list of the third-party tools currently being used on HealthCare.gov. Risk assessments for third-party websites and applications are available at http://www.hhs.gov/pia/. 
 
+See also:  http://www.europarl.europa.eu/portal/en/cookie-policy 
+
 ##### If You Choose to Send Us Personal Information
 
 <i>Example:</i>  Some parts of our website let you voluntarily provide personal information, such as your name or e-mail address. For example, you can provide us with your contact information to sign up for e-mail alerts or to post comments to our blog. We do not collect this information when you visit our website unless you choose to provide it to us. When you provide it to us, we only use it for the purposes of communicating with you, furthering our consumer protection activities, and providing information you request.
