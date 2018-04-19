@@ -3,11 +3,11 @@
 
 ##### Information Collected and Stored Automatically  
 
-What information is collected by default?  Internet Protocol (IP) address, Browser type and version,  referrer address, etc.
+What information is collected by default?  Examples include but are not limited to Internet Protocol (IP) address, Browser type and version, operating system, referrer address (i.e. the page thaty linked you to this one), human language settings, etc.
 
 <i>Example:</i>  We collect and temporarily store certain information about your visit for use in site management and security purposes only. We collect and analyze this information because it helps us to better design our website to suit your needs. We may also automatically collect information about the web content you view in the event of a known security or virus threat. This information includes:
 
-1. The Internet domain from which you access our website (for example, “xcompany.com” if you use a private Internet access account, or “yourschool.edu” if you connect from an educational domain);
+1. The Internet domain from which you access our website (for example, “xcompany.com” if you use a private Internet access account, or “yourschool.edu” if you connect from an educational domain); <i>Open question - is this a reference to reverse DNS lookup? Or is this based on other datasets connecting IP addresses to their owners?</i>
 
 2. The Internet Protocol (IP) address (a unique number for each computer connected to the Internet) from which you access our website;
 
@@ -17,16 +17,14 @@ What information is collected by default?  Internet Protocol (IP) address, Brows
 
 5. The date and time you access our site;
 
-6. The Universal Resource Locators (URLs), or addresses, of the pages you visit;
+6. The Universal Resource Locators (URLs), or addresses, of the pages you visit; and
 
-7. Your username, if it was used to log in to the website; and
-
-8. If you visited this website from another website, the URL of the forwarding site.
+7. If you visited this website from another website, the URL of the forwarding site.
 
 We may share the above information with our employees or representatives with a “need-to-know” in the performance of their official duties, other Federal agencies, or other named representatives as needed to quickly process your request or transaction. This information is only used to help us make our site more useful for you. Raw data logs are retained temporarily as required for security and site management purposes only.
 
 
-##### Cookies and other 3rd party services 
+##### Cookies and other web measurement and/or customization technology 
 
 Session or Peristent? How long are they stored for? How does the visitor delete them? Any effect on visiting experience? What is their privacy policy?  If you use any web measurement/customization technology, you must include:
 
@@ -60,7 +58,11 @@ Targeted Advertising - CMS uses third-party vendors to engage in targeted advert
 
 Third-party vendors engaged by CMS may also target advertising based on information automatically collected (not information you provide) when you browse the CMS websites or other websites on the internet. You can opt out this type of data collection via our Privacy Manager, Ad Choices, and Do Not Track. See Your Choices about Tracking and Data Collection above for methods to opt out of this type of collection.
 
-CMS may consider new third-party tools or the use of new third-party websites, but CMS will first assess the tools or websites before it is used in connection with HealthCare.gov. CMS will provide notice to the public before adding any new tool to HealthCare.gov. These assessments include a description about how information will be collected, accessed, secured, and stored. See a list of the third-party tools currently being used on HealthCare.gov. Risk assessments for third-party websites and applications are available at http://www.hhs.gov/pia/. 
+###### Third Party Services
+
+<i>Example:</i> This website employes third party services (e.g. analytical tools - NewRelic, Google Analytics; survey tools - ForeSee; A/B tests - Optimilzely). These services require your device to make live connections or interactions when you visit this site. 
+
+CMS may consider new third-party tools or the use of new third-party websites, but CMS will first assess the tools or websites before it is used in connection with HealthCare.gov. CMS will provide notice to the public before adding any new tool to HealthCare.gov. These assessments include a description about how information will be collected, accessed, secured, and stored. See a list of the third-party tools currently being used on HealthCare.gov. Risk assessments for third-party websites and applications are available at https://www.hhs.gov/pia/. 
 
 See also:  http://www.europarl.europa.eu/portal/en/cookie-policy 
 
