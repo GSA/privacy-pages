@@ -60,7 +60,7 @@ Third-party vendors engaged by CMS may also target advertising based on informat
 
 ###### Third Party Services
 
-<i>Example:</i> This website employes third party services (e.g. analytical tools - NewRelic, Google Analytics; survey tools - ForeSee; A/B tests - Optimilzely). These services require your device to make live connections or interactions when you visit this site. 
+<i>Example:</i> This website employes third party services (e.g. analytical tools - NewRelic, Google Analytics; survey tools - ForeSee; A/B tests - Optimilzely). These services require your device to make live connections or interactions third parties when you visit this site. The "Information Collected and Stored Automatically" about your visit is generally disclosed to those third parties.    
 
 CMS may consider new third-party tools or the use of new third-party websites, but CMS will first assess the tools or websites before it is used in connection with HealthCare.gov. CMS will provide notice to the public before adding any new tool to HealthCare.gov. These assessments include a description about how information will be collected, accessed, secured, and stored. See a list of the third-party tools currently being used on HealthCare.gov. Risk assessments for third-party websites and applications are available at https://www.hhs.gov/pia/. 
 
