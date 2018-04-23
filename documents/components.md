@@ -1,9 +1,13 @@
 
 ## Potential Sections for a Privacy Page
 
+##### Include a "last reviewed/updated" metric for the Privacy Office's and the public's benefit
+
+Last Reviewed 2018-04-23
+
 ##### Information Collected and Stored Automatically  
 
-What information is collected by default?  Examples include but are not limited to Internet Protocol (IP) address, Browser type and version, operating system, referrer address (i.e. the page thaty linked you to this one), human language settings, etc.
+What information is collected by default?  Examples include but are not limited to Internet Protocol (IP) address, Browser type and version, operating system, referrer address (i.e. the page that linked you to this one), your browser's human language settings, etc.
 
 <i>Example:</i>  We collect and temporarily store certain information about your visit for use in site management and security purposes only. We collect and analyze this information because it helps us to better design our website to suit your needs. We may also automatically collect information about the web content you view in the event of a known security or virus threat. This information includes:
 
@@ -26,7 +30,7 @@ We may share the above information with our employees or representatives with a 
 
 ##### Cookies and other web measurement and/or customization technology 
 
-Session or Peristent? How long are they stored for? How does the visitor delete them? Any effect on visiting experience? What is their privacy policy?  If you use any web measurement/customization technology, you must include:
+General topics: Are any cookies session or peristent? How long are they stored for? What do they collect? How can the visitor delete them? Any effect on visiting experience? What is their privacy policy?  If you use any web measurement/customization technology, you must include:
 
 i. the purpose of the web measurement and/or customization technology;
 ii. the usage Tier, session type, and technology used;
@@ -37,8 +41,7 @@ vi. the privacy safeguards applied to the information;
 vii. the data retention policy for the information;
 viii. whether the technology is enabled by default or not and why;
 ix. how to opt-out of the web measurement and/or customization technology;
-x. statement that opting-out still permits users to access comparable information or services;
-and
+x. statement that opting-out still permits users to access comparable information or services; and
 xi. the identities of all third-party vendors involved in the measurement and customization
 process. 
 
@@ -58,18 +61,17 @@ Targeted Advertising - CMS uses third-party vendors to engage in targeted advert
 
 Third-party vendors engaged by CMS may also target advertising based on information automatically collected (not information you provide) when you browse the CMS websites or other websites on the internet. You can opt out this type of data collection via our Privacy Manager, Ad Choices, and Do Not Track. See Your Choices about Tracking and Data Collection above for methods to opt out of this type of collection.
 
+See also:  http://www.europarl.europa.eu/portal/en/cookie-policy
+
 ###### Third Party Services
 
-<i>Example:</i> This website employes third party services (e.g. analytical tools - NewRelic, Google Analytics; survey tools - ForeSee; A/B tests - Optimilzely). These services require your device to make live connections or interactions third parties when you visit this site. The "Information Collected and Stored Automatically" about your visit is generally disclosed to those third parties.    
+<i>Example:</i> This website employs third party services (e.g. analytical tools - Google Analytics, NewRelic; survey tools - ForeSee; A/B tests - Optimilzely). These services require your device to make live connections to third parties when you visit this site and the categories of information described above in "Information Collected and Stored Automatically" about your visit are generally disclosed to those third parties.    
 
 CMS may consider new third-party tools or the use of new third-party websites, but CMS will first assess the tools or websites before it is used in connection with HealthCare.gov. CMS will provide notice to the public before adding any new tool to HealthCare.gov. These assessments include a description about how information will be collected, accessed, secured, and stored. See a list of the third-party tools currently being used on HealthCare.gov. Risk assessments for third-party websites and applications are available at https://www.hhs.gov/pia/. 
-
-See also:  http://www.europarl.europa.eu/portal/en/cookie-policy 
 
 ##### If You Choose to Send Us Personal Information
 
 <i>Example:</i>  Some parts of our website let you voluntarily provide personal information, such as your name or e-mail address. For example, you can provide us with your contact information to sign up for e-mail alerts or to post comments to our blog. We do not collect this information when you visit our website unless you choose to provide it to us. When you provide it to us, we only use it for the purposes of communicating with you, furthering our consumer protection activities, and providing information you request.
-
 
 
 ##### Sharing of Your Information
@@ -119,9 +121,7 @@ Visit:  https://www.gsa.gov/reference/gsa-privacy-program
 Contact us at: gsa.privacyact@gsa.gov 
 How to make a Privacy Act Request: https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-of-1974 
 
-##### Include a "last reviewed/updated" metric for the Privacy Office's and the public's benefit
 
-Last Reviewed 2018-03-20
 
 
 
