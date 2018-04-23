@@ -21,6 +21,11 @@ This project is an organization of and collaboration between the privacy policie
 
 * After identifying GSA websites, the Privacy Office will contact domain admins and/or site owners and offer the opportunity to enroll in a Google group.
 
+#### Create a wesbite based on the repo markdown files.  
+
+* Once appropriate POCs are located, review and approve an MVP for a new website.
+
+
 #### Engage with the points of contact and collaborate together.  
 
 * Once appropriate POCs are located, we will share knowledge, best practices and update pages together.
