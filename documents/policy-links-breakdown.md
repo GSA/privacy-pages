@@ -7,7 +7,11 @@
 
 # Policy Breakdown 
 
-#### [OMB M-17-06 Section 6](https://policy.cio.gov/web-policy/protect-privacy/)
+### OMB M-17-06
+
+#### [Section 6](https://policy.cio.gov/web-policy/protect-privacy/#a-privacy-program-page) Highlights
+
+_Introduction_ 
 
 * provide clear and accessible notice regarding the creation, collection, use, processing, storage,
 maintenance, dissemination, disclosure, and disposal of PII
@@ -15,7 +19,12 @@ maintenance, dissemination, disclosure, and disposal of PII
 * post plain language privacy policies on agency websites, mobile applications, and other digital services; 
 * provide [Privacy Act Notices where required by the Privacy Act of 1974](https://docs.google.com/a/gsa.gov/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit?usp=drive_web).
 
-#### [OMB M-10-22 Section 3](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf)
+_Section 2_ 
+
+*  If an agency sub-agency, component, or program uses a domain that is different from the agency’s domain, the sub-agency-, component-, or program-specific privacy program page must be accessible through www.[sub-agency, component, or program domain].gov/privacy.
+
+
+### [OMB M-10-22 Section 3](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf)
 
 *  Agencies may use web measurement and customization technologies for the purpose of improving Federal services online through conducting measurement and analysis of usage or through customization of the user’s experience.
 * Under no circumstances may agencies use such technologies:
@@ -41,7 +50,7 @@ with their internal policies governing the use of such technologies.
 must include the agency’s proposal to use such technologies and a description of how they will be used, which should at a minimum address the items in the Privacy Policy as described in Attachment 3; and
   * Review and consider substantive comments and make changes to their intended use of web measurement and customization technologies where appropriate. 
 
-#### [OMB M-10-23 Section 3](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-23.pdf)
+### [OMB M-10-23 Section 3](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-23.pdf)
 
 * When using a third-party website or application, agencies should adhere to the following
 general requirements:
@@ -54,7 +63,7 @@ explaining that visitors are being directed to a nongovernment website that may 
 nongovernment actors. For example, to the extent practicable, an agency should add its seal or emblem to its profile page on a social media website to indicate that it is an official agency presence.
   * Information Collection. If information is collected through an agency’s use of a third-party website or application, the agency should collect only the information “necessary for the proper performance of agency functions and which has practical utility.” If personally identifiable information (PII) is collected, the agency should collect only the minimum necessary to accomplish a purpose required by statute, regulation, or executive order.
 
-#### Section 4:
+### Section 4:
 
 * The adapted PIA is required whenever an agency’s use of a third-party website or application makes PII available to the agency. Each adapted PIA should be tailored to address the specific functions of the website or application, but adapted PIAs need not be more elaborate than the agency’s other PIAs. In general, each PIA should be posted on the agency’s official website.
 The PIA should describe:  
