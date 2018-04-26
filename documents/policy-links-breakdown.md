@@ -21,8 +21,8 @@ maintenance, dissemination, disclosure, and disposal of PII
 * Under no circumstances may agencies use such technologies:
   * to track user individual-level activity on the Internet outside of the website or application from which the technology originates;
   * to share the data obtained through such technologies, without the user’s explicit consent, with other departments or agencies;
-  * to cross-reference, without the user’s explicit consent, any data gathered from web measurement and customization technologies against PII to determine individual-level online activity;
-  * to collect PII without the user’s explicit consent in any fashion; or 
+  * to cross-reference, without the user’s explicit consent, any data gathered from web measurement and customization technologies against PII to determine individual-level online activity;  
+  * to collect PII without the user’s explicit consent in any fashion; or   
   * for any like usages so designated by OMB. 
 
 * Tiers of technologies:
