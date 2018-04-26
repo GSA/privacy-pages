@@ -11,7 +11,7 @@
 
 #### [Section 6](https://policy.cio.gov/web-policy/protect-privacy/#a-privacy-program-page) Highlights
 
-_Introduction_ 
+##### _Introduction_
 
 * provide clear and accessible notice regarding the creation, collection, use, processing, storage,
 maintenance, dissemination, disclosure, and disposal of PII
@@ -19,7 +19,7 @@ maintenance, dissemination, disclosure, and disposal of PII
 * post plain language privacy policies on agency websites, mobile applications, and other digital services; 
 * provide [Privacy Act Notices where required by the Privacy Act of 1974](https://docs.google.com/a/gsa.gov/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit?usp=drive_web).
 
-_Section 2_ 
+##### _2_ 
 
 *  If an agency sub-agency, component, or program uses a domain that is different from the agency’s domain, the sub-agency-, component-, or program-specific privacy program page must be accessible through www.[sub-agency, component, or program domain].gov/privacy.
 
