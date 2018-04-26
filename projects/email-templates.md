@@ -8,7 +8,7 @@ We're working with all of the website owners across GSA to better collaborate on
 
 To that end, we want to make sure that each website:  
 * Has a privacy policy page 
-* That the privacy policy page can be found at example.gov/privacy 
+* That the privacy policy page can be found at example.gov/privacy - ([citation](https://github.com/GSA/privacy-pages/blob/master/documents/policy-links-breakdown.md#2))
 * That there's an identified point of contact for the website that is responsible for the website's privacy policy page and with whom we can coordinate any updates to the privacy page in the future, as needed.  
 * That the point of contact is added to the [GSA Privacy Policy Points of Contact Google Group](https://groups.google.com/a/gsa.gov/forum/#!forum/privacy-policy-poc).  
 
