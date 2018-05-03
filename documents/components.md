@@ -1,9 +1,9 @@
 
 ## Potential Sections for a Privacy Page
 
-##### Include a "last reviewed/updated" metric for the Privacy Office's and the public's benefit
+##### Include a "last reviewed/updated" metric for the Privacy Office's and the public's benefit - can we write a snippet of code to do this automatically?
 
-Last Reviewed 2018-04-23
+Last Reviewed 2018-05-03
 
 ##### Information Collected and Stored Automatically  
 
