@@ -3,7 +3,7 @@
 
 ##### Include a "last reviewed/updated" metric for the Privacy Office's and the public's benefit - can we write a snippet of code to do this automatically?
 
-Last Reviewed 2018-05-03
+Last Reviewed 2019-04-25
 
 ##### Information Collected and Stored Automatically  
 
@@ -51,7 +51,11 @@ These tools collect basic site usage information such as: how many visits Health
 Digital Advertising Tools for Outreach and Education:
 CMS uses third-party tools to support our digital advertising outreach and education efforts. These tools enable CMS to reach new people and provide information to previous visitors. In order to use these tools, we use the following technologies on HealthCare.gov.
 
-Click Tracking – CMS uses click tracking to identify the ads that are most helpful to consumers and efficient for outreach. This enables CMS to improve the performance of ads that consumers click on. When users click on links from ads, data about what ad was viewed is collected. Reports are generated about ad performance – including the total number of views and clicks an ad received.
+Click Tracking – CMS uses click tracking to identify the ads that are most helpful to consumers and efficient for outreach. This enables CMS to improve the performance of ads that consumers click on. When users click on links, data about what was viewed is collected. Reports are generated about performance – including the total number of views and clicks a link received.  
+
+When you visit USA.gov, we may store some or all of the following: the Internet protocol address from which you access USA.gov, date and time, the name of the web site from which you linked to USA.gov, the name of the file or words you searched, items clicked on a page, and the browser and operating system used.
+
+This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas. We also use this information to help us develop the site, analyze patterns of usage, and to make the site more useful. This information is not used for associating search terms or patterns of site navigation with individual users. USA.gov may anonymize and provide this information to third party entities for the purposes of research analysis. We do not share or sell visitor data for the purposes of advertising, marketing, or any other commercial purpose.
 
 Conversion Tracking - CMS uses conversion tracking to identify ads that are helpful to consumers and efficient for outreach. It enables CMS to improve the performance of ads viewed by consumers. When a HealthCare.gov ad is viewed on a third-party site (e.g. a banner ad), a cookie is placed in the browser of the device the ad was viewed on. If this device later visits HealthCare.gov, the visit is linked to the ad viewed on the same device. Use the HealthCare.gov privacy manager to opt-out of advertising tools. Users can click on the “AdChoices” Icon in the corner of our Ads to opt-out of this Ad Targeting. Users who have set their browser to “Do Not Track” will automatically be opt-ed out of conversion tracking. For more information about AdChoices and Do Not Track, see “Your Choices about tracking and Data Collection”
 
